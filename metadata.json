@@ -1,0 +1,5 @@
+{
+  "name": "InfiniView - AI Image Expander gs",
+  "description": "Seamlessly expand your images beyond their borders using Gemini 2.5 Flash. Upload an image, define the expansion area, and let AI fill in the rest.",
+  "requestFramePermissions": []
+}
